@@ -48,7 +48,7 @@ Config file for I3 Windows Director
 And the benefit of lifting the project is to help new people on i3 or people that change the distributions always a research that provides them with the largest amount of basics and helps them to save time and just need to download the file and replace the old Config file.
 Note that you need to bear some things in order to do the orders in the file, such as the background display program
 The things that you need to download are Feh, Blue Bar and others
-Dubian users and its derivatives
+Debian users and its derivatives
 
 
 sudo apt Install feh
@@ -59,7 +59,7 @@ sudo apt Install polybar
 
 sudo apt Install i3lock
 
-And if you are users of Fedora, only delete APT and put DNF
+And if you fedora are users of Fedora, only delete APT and put DNF
 thus
 
 
@@ -73,7 +73,7 @@ sudo dnf Install polybar
 sudo dnf Install i3lock
 
 
-And if you are users, put Pacman, delete the word Install and make it -S
+And if you are Arch users, put Pacman, delete the word Install and make it -S
 thus
 
 
