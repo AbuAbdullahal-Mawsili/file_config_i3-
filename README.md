@@ -31,8 +31,11 @@ sudo dnf install i3lock
 
 
 sudo pacman -S feh
+
 sudo pacman -S rofi
+
 sudo pacman -S polybar
+
 sudo pacman -S  i3lock
 
 
