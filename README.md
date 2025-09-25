@@ -51,26 +51,26 @@ The things that you need to download are Feh, Blue Bar and others
 Dubian users and its derivatives
 
 
-Sudo apt Install feh
+sudo apt Install feh
 
-Sudo apt Install rofi
+sudo apt Install rofi
 
-Sudo apt Install polybar
+sudo apt Install polybar
 
-Sudo apt Install i3lock
+sudo apt Install i3lock
 
 And if you are users of Fedora, only delete APT and put DNF
 thus
 
 
 
-Sudo dnf Install feh
+sudo dnf Install feh
 
-Sudo dnf Install rofi
+sudo dnf Install rofi
 
-Sudo dnf Install polybar
+sudo dnf Install polybar
 
-Sudo dnf Install i3lock
+sudo dnf Install i3lock
 
 
 And if you are users, put Pacman, delete the word Install and make it -S
@@ -78,10 +78,10 @@ thus
 
 
 
-Sudo pacman -S feh
+sudo pacman -S feh
 
-Sudo pacman -S rofi
+sudo pacman -S rofi
 
-Sudo pacman -S polybar
+sudo pacman -S polybar
 
-Sudo pacman -S i3lock
+sudo pacman -S i3lock
