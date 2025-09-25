@@ -10,18 +10,27 @@ sudo apt install polybar
 sudo apt install i3lock
 
 و اذ انت من مستخدمين فيدورا فقط احذف apt و ضع dnf
-هكذا 
+هكذا
+
+
 sudo dnf install feh
 sudo dnf install rofi
 sudo dnf install polybar
 sudo dnf install i3lock
 
+
+
 و اذ انت من مستخدمين ارش ضع pacman  و احذف كلمة install  و اجعلها -S
 هكذا 
+
+
 sudo pacman -S feh
 sudo pacman -S rofi
 sudo pacman -S polybar
 sudo pacman -S  i3lock
+
+
+
 
 
 
@@ -31,21 +40,21 @@ And the benefit of lifting the project is to help new people on i3 or people tha
 Note that you need to bear some things in order to do the orders in the file, such as the background display program
 The things that you need to download are Feh, Blue Bar and others
 Dubian users and its derivatives
-Sudo Apt Install feh
-Sudo Apt Install roify
-Sudo Apt Install polybar
-Sudo Apt Install i3lock
+Sudo apt Install feh
+Sudo apt Install roify
+Sudo apt Install polybar
+Sudo apt Install i3lock
 
 And if you are users of Fedora, only delete APT and put DNF
 thus
-Sudo Dnf Install feh
-Sudo Dnf Install rofi
-Sudo Dnf Install polybar
-Sudo Dnf Install i3lock
+Sudo dnf Install feh
+Sudo dnf Install rofi
+Sudo dnf Install polybar
+Sudo dnf Install i3lock
 
 And if you are users, put Pacman, delete the word Install and make it -S
 thus
-Sudo Pacman -S feh
-Sudo Pacman -S rofi
-Sudo Pacman -SA polybar
-Sudo Pacman -S i3lock
+Sudo pacman -S feh
+Sudo pacman -S rofi
+Sudo pacman -SA polybar
+Sudo pacman -S i3lock
